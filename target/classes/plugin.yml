@@ -1,0 +1,7 @@
+main: me.oxince.lobbysystem.LobbySystem
+name: LobbySystem
+version: 0.0.1
+
+commands:
+  location:
+  build:
